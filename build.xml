@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<project name="javademo" default="javabuild" basedir=".">
+<project name="JavaDemo" default="javabuild" basedir="/home/user/.jenkins/jobs/JavaDemo/builds">
 
   <target name="javabuild">
     <ant antfile="./build.xml">
